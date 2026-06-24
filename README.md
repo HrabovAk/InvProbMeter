@@ -28,7 +28,7 @@
 <ul>
   <li>Arduino UNO R4 WIFI</li>
   <li>Супутниковий модем Iridium RockBLOCK 9602</li>
-  <li>Датчики летких органічних сполук MISC-5524</li>
+  <li>Датчики летких органічних сполук MISC-5524 (4 шт.)</li>
   <li>I2C-дисплей 20x4</li>
   <li>Анемометр ZTS-3000-FSJT</li>
   <li>Флюгер PR-3000-FXJT</li>
